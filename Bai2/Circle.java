@@ -1,6 +1,6 @@
 package Bai2;
 
-public class Circle extends IShape {
+public class Circle implements IShape{
     private double radius;
 
     public Circle(double radius) {

@@ -1,6 +1,6 @@
 package Bai2;
 
-public class Rectangle extends IShape {
+public class Rectangle implements IShape{
     private double length;
     private double width;
 
